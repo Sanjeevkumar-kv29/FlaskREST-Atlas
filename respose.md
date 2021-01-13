@@ -11,6 +11,7 @@
 
 
 
+
 <article class="article"><div><div></div>
 
 <p class="summary"><span class="seoSummary">HTTP response status codes indicate whether a specific <a href="/en-US/docs/Web/HTTP">HTTP</a> request has been successfully completed. Responses are grouped in five classes: </span></p>
